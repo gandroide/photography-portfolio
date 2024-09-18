@@ -78,9 +78,9 @@ export default function MyTown() {
 
         <div className="prose prose-stone max-w-none">
           <p className="text-xl mb-4">
-            "La Ciudad Despierta" es un viaje visual a través de la vida
-            nocturna urbana, capturando la esencia y la energía de la ciudad
-            cuando el sol se pone y las luces se encienden.
+            La Ciudad Despierta es un viaje visual a través de la vida nocturna
+            urbana, capturando la esencia y la energía de la ciudad cuando el
+            sol se pone y las luces se encienden.
           </p>
           <p className="mb-4">
             Este proyecto explora los contrastes y la vitalidad de la vida
@@ -96,7 +96,7 @@ export default function MyTown() {
             la ciudad cuando la mayoría duerme.
           </p>
           <p>
-            "La Ciudad Despierta" no solo documenta la actividad nocturna, sino
+            La Ciudad Despierta no solo documenta la actividad nocturna, sino
             que también reflexiona sobre temas más amplios como la soledad
             urbana, la comunidad, y cómo la ciudad se transforma y adquiere una
             nueva identidad bajo el manto de la noche.
